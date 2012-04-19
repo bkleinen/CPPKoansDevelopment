@@ -43,8 +43,6 @@ void aboutPointersAndArrays(){
 		expectThat("now the defaultChar should be in every cell #"+i,defaultChar,p[i]);
 	}
 
-
-
 }
 void AboutPointers::meditate(){
 	aboutPointers();
